@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kenny/Desktop/CS 405/CS 405 M2 BufferOverflow code files/BufferOverflow'
+relocations:     []
+...
